@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_13_number_4</string>
+
+    <string name="toolbar_title">Мобильный браузер</string>
+    <string name="toolbar_subtitle">Mod. 13 № 4</string>
+    <string name="exit">Exit</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <string name="textViewTV_Text">Наименование ресурса</string>
+</resources>

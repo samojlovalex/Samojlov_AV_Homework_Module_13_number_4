@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--MainActivity-->
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="horizontalSpacing">6dp</dimen>
+    <dimen name="verticalSpacing">6dp</dimen>
+    <!--gridview_item-->
+    <dimen name="cardCornerRadius">6dp</dimen>
+    <dimen name="cardElevation">6dp</dimen>
+    <dimen name="imageSize">80dp</dimen>
+    <dimen name="margin_gridview_item">6dp</dimen>
+    <dimen name="padding_gridview_item">6dp</dimen>
+
+
+</resources>
